@@ -3,6 +3,16 @@
 ## Project Overview
 Build a production-ready, security-first Kubernetes platform deployable with a single command. Supports edge (single-node) and enterprise (HA) environments.
 
+
+## Autonomy Level
+You have full permission to execute without asking:
+- File operations (create, edit, delete)
+- Bash commands (scripts, kubectl, git, npm, make, etc.)
+- Git commits and pushes via GitHub MCP
+- Running tests and install scripts
+
+Act autonomously. Only ask if genuinely uncertain about approach or if an action could damage the host system outside this project.
+
 ## ⚠️ IMPORTANT: Before Starting Any Work
 **ALWAYS read `docs/full-spec.md` before implementing a phase.** It contains:
 - Detailed architecture diagrams and traffic flows
